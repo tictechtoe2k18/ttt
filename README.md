@@ -1,2 +1,2 @@
-https://jaichandrakanthreddy.github.io/tictechtoe/
+https://tictechtoe.github.io/tictechtoe/
 
